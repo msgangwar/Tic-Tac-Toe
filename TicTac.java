@@ -172,6 +172,7 @@ public class TicTac extends Frame implements ActionListener,WindowListener,KeyLi
 		    but9.setLabel("");
 		    				
 		}
+		// Conditional Statements starts here 		
 		else if(str.equals("")&&l==0)
 		{
 			((Button) arg0.getSource()).setLabel("X");
