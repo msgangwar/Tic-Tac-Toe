@@ -1,6 +1,6 @@
 import java.awt.Button;
-import java.awt.Color;
 import java.awt.Font;
+import java.awt.Color;
 import java.awt.Frame;
 import java.awt.Label;
 import java.awt.TextField;
