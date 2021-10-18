@@ -50,9 +50,9 @@ public class TicTac extends Frame implements ActionListener,WindowListener,KeyLi
 		but7.setBounds(10,235, 100, 100);
 		but8.setBounds(110,235, 100, 100);
 		but9.setBounds(210,235, 100, 100);
-        result.setEditable(false);
-        result.setBounds(9, 365, 300, 30);
-        reset.setBounds(10, 335, 300, 30);
+       	 	result.setEditable(false);
+        	result.setBounds(9, 365, 300, 30);
+        	reset.setBounds(10, 335, 300, 30);
         
 		addWindowListener(this);
 		but1.addActionListener(this);
